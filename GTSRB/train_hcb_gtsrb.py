@@ -5,7 +5,7 @@ from torch import nn
 import torch.optim as optim
 import torch.nn.functional as F
 import torch.utils.data as Data
-from mymodel import get_resnetmodel
+from Model_CLS import get_resnetmodel
 from utils_data_outsourcing import *
 
 # load model
