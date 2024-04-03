@@ -13,6 +13,6 @@ Our code is implemented and tested on PyTorch. Following packages are used by ou
 
 ### RUN
 1. The training and test phases on the data outsourcing scenario.
-python GTSRB/DataOutsourcing/HCB_Data_Outsourcing.py
+python GTSRB/Data/HCB_Data_Outsourcing.py
 2. The training and test phases on the model outsourcing scenario.
-python GTSRB/ModelOutsourcing/HCB_Model_Outsourcing.py
+python GTSRB/Model/HCB_Model_Outsourcing.py
