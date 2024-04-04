@@ -20,3 +20,6 @@ python GTSRB/Data/HCB_Data_Outsourcing.py
 ```python
 python GTSRB/Model/HCB_Model_Outsourcing.py
 ```
+
+### Other Task
+To be continue.
