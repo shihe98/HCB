@@ -9,7 +9,9 @@ This is for releasing the source code of our work "Horizontal Class Backdoor to 
 
 ### DEPENDENCIES
 Our code is implemented and tested on PyTorch. Following packages are used by our code.
-
+- `troch==1.7.1`
+- `torchvision==0.8.2`
+- `numpy==1.19.5`
 
 ### RUN
 1. The training and test phases on the data outsourcing scenario.
