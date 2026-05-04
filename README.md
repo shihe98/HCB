@@ -33,5 +33,3 @@ python GTSRB/Data/HCB_Data_Outsourcing.py
 python GTSRB/Model/HCB_Model_Outsourcing.py
 ```
 
-### Other Tasks
-To be continue...
